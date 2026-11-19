@@ -1,0 +1,5 @@
+2026-11-19 15:25:06,714 [INFO] Accepted record: C101
+2026-11-19 15:25:06,714 [WARNING] Rejected record 101: Invalid CID pattern: 101
+2026-11-19 15:25:06,714 [WARNING] Rejected record C102: Malformed email format: user_invalid_domain
+2026-11-19 15:25:06,714 [WARNING] Rejected record C103: Invalid pincode format: 20A310
+2026-11-19 15:25:06,714 [WARNING] Rejected record C104: Negative spend rejected: -150.0
